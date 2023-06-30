@@ -1,0 +1,73 @@
+{
+    "harry-potter-characters" : [ 
+    {  
+         "id": 1,
+        "name": "Harry Potter",
+        "house": "Gryffindor",
+        "zodiac": "leo",
+    
+        "pet": "https://static.wikia.nocookie.net/harrypotter/images/1/1e/Hedwig_Snowy_Owl_PM.png/revision/latest?cb=20161123234010",
+        "value": false,
+        "image": "https://media.harrypotterfanzone.com/harry-potter-order-of-the-phoenix-portrait-17.jpg",
+
+        "title": "theChosenBoy",
+        "picture": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/09/12/17/potter.jpg",
+        "likes": 190,
+        "caption": "send them a direct message! "
+    },
+    {
+        "id": 2,
+        "name": "Hermione Granger",
+        "house": "Gryffindor",
+        "zodiac": "virgo",
+       
+        "pet": "https://images.ctfassets.net/usf1vwtuqyxm/1VewXrez2U26IIaOUOm0Uo/9257ef81ac9e419a0ec9560d5b50fa8f/WB_F3_Crookshanks_SOLOcrop_C240_51_UP_HPE3.jpg?fm=jpg&q=70&w=2560",
+        "image": "https://www.harrypottercat.cat/imatges/usuaris/10692/HP5-AD-00112r.jpg",
+        "title": "hermione__",
+        "picture": "https://www.lizdress.com/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/h/e/hermione-granger-pink-dress-yule-ball-harry-potter-costume-4.jpg",
+        "likes": 481
+      
+    },
+    {
+        "id": 3,
+        "name": "Ron Weasely",
+        "house": "Gryffindor",
+        "zodiac": "pisces",
+      
+        "pet": "https://static.wikia.nocookie.net/harrypotter/images/6/6c/Ron_and_Scabbers.jpg/revision/latest?cb=20161120222157",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Ron_Weasley_poster.jpg/220px-Ron_Weasley_poster.jpg",
+
+        "title": "r.weasely",
+        "picture": "https://44.media.tumblr.com/88ecf9606c52f2de991620601746ff8c/bb33409092fd42b6-73/s500x750_f1/55831aac360789f8353775c4935bfeafd573623d.gif",
+        "likes": 147
+        
+    },
+    {
+        "id": 4,
+        "name": "Draco Malfoy",
+        "house": "Slytherin",
+        "zodiac": "gemini",
+        "image": "https://cdn.totallythebomb.com/wp-content/uploads/2021/08/2ba415465c589c7e047520826b0e0d36.jpg.webp",
+        "pet": "https://i.quotev.com/nq2hsx3gaaaa.jpg",
+
+        "title": "malfoy",
+        "picture": "https://studybreaks.com/wp-content/uploads/2020/10/dracomalfoy-e1601946219489.jpg",
+        "likes": 312
+
+
+    },
+    {
+        "id": 5,
+        "name": "Neville Longbottom",
+        "house": "Gryffindor",
+        "zodiac": "leo",
+        "image": "https://static.wikia.nocookie.net/harrypotterfanon/images/2/20/NevilleHBP.jpg/revision/latest?cb=20150707032651",
+
+        "title": "longbottomjeans",
+        "picture": "https://images.ctfassets.net/usf1vwtuqyxm/4UolxO09uEsKIos6G8kIA/230774c3c9b1cfff8f5e37ab99337ba9/NevilleLongbottom_WB_F8_NevilleLongbottomFullShot_Still_080615_Port.jpg?fm=jpg&q=70&w=2560",
+        "pet": "https://www.giantbomb.com/a/uploads/scale_medium/0/3683/1080230-neville3.jpg",
+        "likes": 68
+
+     }
+    ]
+}
